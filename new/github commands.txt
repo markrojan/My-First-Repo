@@ -1,0 +1,17 @@
+cd 		---> change directory
+mkdir 		---> make directory
+ls		---> list
+pwd		---> present working directory
+git status	---> status
+git add		---> add file to track
+git add .	---> add all untrack files/directories
+git remove	--->
+git commit -m	---> commit with commit message
+git remote add "name of remote repo, origin" url_here
+git push -u origin master	---> push local repo to remote master=>origin
+git branch name_of_branch
+
+
+
+github:
+git ignore	---> github should ignore
